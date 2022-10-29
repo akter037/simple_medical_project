@@ -1,0 +1,72 @@
+.dept_image{
+width:960px;
+height:500px;
+
+ background-image:url(../image/hospital-manta-07.jpg); background-repeat:no-repeat;
+ background-size:960px 500px;
+ }
+ .dept_title{
+	 width:960px;
+	height:500px;
+position:absolute;	 
+ }
+.dept_image h1{
+text-align:center;
+margin-top:363px;
+font-size:30px;
+color:white;
+}
+.dept_image p{
+	width:763px;
+text-align:center;
+margin:10px 30px 10px 94px;
+font-size:20px;
+color:#f8faff;
+}
+.main_dept_div{
+	width:900px;
+	height:755px;
+	background-color:#f7f7f5b3;
+	margin:10px auto;
+}
+.all_dept_head{
+width:900px;
+height:42px;
+
+	margin:0px auto;
+}
+.all_dept_head h2{
+	background-color:#ddd;margin:20px 0px 8px 0px;font-weight:bold;font-size:25px;
+	padding:2px 2px 2px 38px;
+	font-style: oblique;
+}
+.singal_dept{
+float:left;
+width:420px;
+height:200px;
+background-color:#eef2ee40;
+margin:13px 10px 13px 10px;
+padding:3px;
+border:2px solid #373333a3;
+	/* box-shadow:33px 2px 126px 23px #4f574aa1  inset;*/
+	 background-image:url(../image/dept.jpg); background-repeat:no-repeat;background-size:89px 74px;background-position:8px 19px;
+	 box-shadow:-5px -5px 4px 1px #dbcaca;
+}
+.singal_dept h2{
+	margin:30px 10px 10px 104px;
+	font-size:29px;
+	color:#0b111e;
+}
+.singal_dept h3{
+	margin:15px 10px 10px 102px;
+	color:#0d0909c9;
+}
+.singal_dept:hover{
+	background-color:#959daeb3;
+}
+.singal_dept h3:hover{
+	color:#fff;
+}
+.singal_dept h2:hover{
+	color:#fff;
+}

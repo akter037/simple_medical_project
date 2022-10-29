@@ -1,0 +1,108 @@
+.doctor_image{
+	width:900px;
+	height:400px;
+
+	background-image:url(../image/unnamed.jpg); background-repeat:no-repeat;
+	margin-left:30px;
+	
+	background-size:cover;
+}
+
+.best_title{
+	position:absolute;
+	width:900px;
+	height:380px;
+	box-shadow: -1px 3px 5px 4px #d9cdcd;
+	
+}
+.best_title h1{
+	margin:338px 0px 0px 30px;
+	color: #FFFFFF;
+
+text-shadow: 0 -1px 4px #FFF, 0 -2px 10px #c8c8a6, 0 -10px 20px #ff8000, 0 -18px 40px #F00;
+}
+
+.doctor_details{
+	width:960px;
+	background-color:#e4eae447;
+	height:670px;
+}
+
+.doct h2{
+	font-size:21px;
+	
+}
+.department{
+	width:920px;
+	height:40px;
+	padding:3px 10px 10px 10px;
+	border:3px solid #a4939394;
+	margin-left: 10px;
+	box-shadow: -1px 3px 5px 4px #d9cdcd;
+	margin-top:10px;
+	border-radius:37px 4px 37px 4px;
+	
+}
+.department h2{
+	margin-top:7px;
+	font-style: oblique;
+	font-size: 26px;
+	color: #0c2133cc;
+	margin-left:15px;
+	
+}
+.doctors{
+	float:left;
+	width:221px;
+height:280px !important;
+background-color:#edf4f43b;
+margin:17px 7px 0px 8px;	
+transition:all 2s;
+border:1px solid #d9c4c4c2;
+box-shadow:5px 2px 2px 2px #e8dfcf;
+}
+.doctors:hover{
+box-shadow:-5px -5px 4px 1px #dbcaca;
+	
+  background-color:blue;
+}
+.doctors img{
+width:100px !important;
+height:100px;
+border-radius:50px;
+margin: 28px 0px 0px 58px;
+}
+.doctors h2{
+	text-align:center;
+	font-size:22px;
+	margin-top:10px;
+}
+.doctors h3{
+	margin-top:6px;
+	text-align:center;
+	font-size:16px;
+}
+.images{
+	margin-top:20px;
+	height:67px;
+	background-color:#aaa3a38f;
+}
+.images a{
+	text-decoration:none;
+}
+.images ul li:last-child{
+	 height:20px;
+  width:200px !important;
+  margin-top:0px;
+	display:block;
+	
+	font-size:20px;
+	
+}
+.images ul li img{
+
+  margin-top:10px;
+  
+	
+}
+.
